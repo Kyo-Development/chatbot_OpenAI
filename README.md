@@ -51,8 +51,8 @@ This project is a **custom-built chatbot** that leverages the powerful capabilit
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/chatgpt-chatbot.git
-   cd chatgpt-chatbot
+   git clone https://github.com/Kyo-Development/chatbot_OpenAI.git
+   cd chatbot_OpenAI
 
 Install the required dependencies:
 ```bash
@@ -92,8 +92,8 @@ dotenv
 
 リポジトリをクローンします:
 ```bash
-git clone https://github.com/your-username/chatgpt-chatbot.git
-cd chatgpt-chatbot
+git clone https://github.com/Kyo-Development/chatbot_OpenAI.git
+cd chatbot_OpenAI
 ```
 
 ---------------------------------------------------------------------------
@@ -121,6 +121,6 @@ dotenv
 
 克隆此儲存庫:
 ```bash
-git clone https://github.com/your-username/chatgpt-chatbot.git
-cd chatgpt-chatbot
+git clone https://github.com/Kyo-Development/chatbot_OpenAI.git
+cd chatbot_OpenAI
 ```
